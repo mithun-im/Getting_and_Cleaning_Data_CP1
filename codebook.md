@@ -8,8 +8,14 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 Testdata_x, Testdata_y and Testdata_subject denote the test datasets. The required mean and std of all observations
 Traindata_x, Traindata_y and Traindata_subject denote the train datasets.
 
+<<<<<<< HEAD
 mean_std_features 
 
 Testdata is used to merge Testdata_x, Testdata_y and Testdata_subject
 Traindata is used to merge Traindata_x, Traindata_y and Traindata_subject
 Finally the Testdata and Traindata are merged to form Expt_data. 
+=======
+Testdata is used to merge Testdata_x, Testdata_y and Testdata_subject
+Traindata is used to merge Traindata_x, Traindata_y and Traindata_subject
+Finally the Testdata and Traindata are merged to form Expt_data. 
+>>>>>>> 5144e314217949f690cc689f52af5211df0a799c
